@@ -1,7 +1,8 @@
 # Belajar HTML, CSS, Bootstrap
 
 ## GitHub Pages URL
-Lihat hasil belajar di sini ....
+Lihat hasil belajar di sini 
+https://janzenfaidiban.github.io/sacode-laravel-day02/
 
 
 
